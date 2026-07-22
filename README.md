@@ -1,24 +1,31 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=Tonmoy%20Modak&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Learner&descAlignY=60&descSize=18" width="100%"/>
+<!-- Header -->
+<h1>Tonmoy Modak</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&width=600&lines=3rd+Year+Software+Engineering+Student;C+%7C+Java+%7C+SQL+%7C+HTML%2FCSS%2FJS;DSA+%26+OOP+Enthusiast+%40+DIU;Building+Real-World+Console+%26+Web+Projects" alt="Typing SVG" />
+
+<br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tonmoy-modak/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Tonmoy-Modak"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Tonmoy-Modak&label=Profile%20Views&color=9b51e0&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Tonmoy-Modak&label=Profile%20Views&color=2F80ED&style=for-the-badge" />
 
 </div>
 
 <br/>
 
+---
+
+<br/>
+
 ## 🧑‍💻 About Me
 
-Hi there! I'm **Tonmoy Modak**, a **2nd year Software Engineering student** who enjoys building practical, real-world console and file-handling systems while exploring web development.
+Hi there! I'm **Tonmoy Modak**, a **3rd year Software Engineering student** at **Daffodil International University (DIU)** who enjoys building practical, real-world console and file-handling systems while exploring web development.
 
 - 🌱 Currently learning **Java, SQL & Web Development**
 - 💬 Ask me about **C, HTML, CSS, SQL**
