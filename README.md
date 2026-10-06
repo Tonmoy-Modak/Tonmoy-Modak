@@ -73,7 +73,7 @@
   <img src="https://raw.githubusercontent.com/Tonmoy-Modak/Tonmoy-Modak/output/github-contribution-grid-snake.svg" width="100%" alt="snake contribution animation"/>
 </p>
 
-> ⚠️ This snake game animates automatically by "eating" your contribution graph squares — but it needs a small one-time setup (a GitHub Action) to generate. Full steps below.
+
 
 ---
 
